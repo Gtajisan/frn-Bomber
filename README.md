@@ -29,9 +29,9 @@ apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/Toxic-Noob/ToxicBomber
+git clone https://github.com/Gtajisan/frn-Bomber
 cd ToxicBomber
-python Tbomb.py
+python frn-Bomber.py
 ```
 
 ## Note:
@@ -41,7 +41,7 @@ python Tbomb.py
 
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="mailto: ToxicNoob.Sl4d3.Official@gmail.com">Email</a>
+<li> Via <a href="mailto: ffjisan804@gmail.com">Email</a>
 
 
 # Screenshots:
