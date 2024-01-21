@@ -19,7 +19,7 @@ In your Terminal
 To remove the old Version:
 ``` shell script
 cd ~
-rm -rf farn-Bomber
+rm -rf ToxicBomber
 ```
 To Install Tool Newly:
 
