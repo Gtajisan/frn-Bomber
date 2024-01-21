@@ -30,7 +30,7 @@ pkg install python -y
 pkg install git -y
 pip install requests
 git clone https://github.com/Gtajisan/frn-Bomber
-cd ToxicBomber
+cd frn-Bomber
 python frn-Bomber.py
 ```
 
